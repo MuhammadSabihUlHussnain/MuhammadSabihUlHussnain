@@ -28,7 +28,7 @@ Computer science student at the University of Southern Mississippi (B.S., Spring
 
 ## Tools
 
-**Languages:** Python, C/C++, JavaScript/TypeScript, SQL, C#
-**Embedded:** ESP32, Raspberry Pi, MQTT over TLS, sensor integration, Fusion 360, 3D printing
-**ML and data:** PyTorch, Ultralytics YOLO, ONNX, Microsoft SQL Server, Stata
-**Web and cloud:** React, Next.js, Flask, AWS, GitHub Actions
+- **Languages:** Python, C/C++, JavaScript/TypeScript, SQL, C#
+- **Embedded:** ESP32, Raspberry Pi, MQTT over TLS, sensor integration, Fusion 360, 3D printing
+- **ML and data:** PyTorch, Ultralytics YOLO, ONNX, Microsoft SQL Server, Stata
+- **Web and cloud:** React, Next.js, Flask, AWS, GitHub Actions
